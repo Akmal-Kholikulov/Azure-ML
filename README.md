@@ -1,2 +1,1 @@
-# RPA 
-Robotic Process Automation 
+# Azure ML 
